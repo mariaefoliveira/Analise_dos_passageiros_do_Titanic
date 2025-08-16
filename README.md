@@ -1,4 +1,4 @@
-# Analise_Titanic
+# **Análise de sobrevivência dos passageiros do Titanic**
 #### Observação:
 _A intenção deste projeto é analisar a base de dados existente sobre o titanic e aprofundar os conhecimentos sobre análise de dados._
 
