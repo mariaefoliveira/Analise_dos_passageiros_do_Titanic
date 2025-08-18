@@ -9,7 +9,7 @@ _Link: https://www.kaggle.com/competitions/titanic
 > - **Relatório de sobreviventes do Titanic.pbix**
 
 ## **Resumo**:
-> As questões trabalhadas foram focadas nas **classes** dos sobreviventes, **taxa** paga, e a **média** da idade dos passageiros, fazendo uma divisão entre os sexos para entender se houve alguma ligação real na sobrevivência dos passageiros do **Titanic**.
+> As questões trabalhadas foram focadas nas **classes** dos sobreviventes, e a **média** da idade dos passageiros, fazendo uma divisão entre os sexos para entender se houve alguma ligação real na sobrevivência dos passageiros do **Titanic**.
 
 ---
 
