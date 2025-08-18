@@ -40,7 +40,7 @@ Houveram mais passageiros abordo do sexo masculino do que feminino. Ocupando cer
 
 Foram identificados um maior número de pessoas da **primeira** e **terceira** classe, mas isso pode estar intrísecamente relacionado a idade. Mas analisando superficialmente, **491** dos passageiros eram da 3ª classe e **216* da 1ª classe, sendo a **2ª classe** a de menor registro.
 
-#Taxa de Sobrevivência Total
+#Taxa de Sobrevivência Total em %
 <div align="center">
   <img src="https://github.com/mariaefoliveira/Analise_Titanic/blob/main/Imagem-Print/Passageiros/Porc_Sobreviventes_Sexo_e_Idade.png?raw=true">
 </div>
@@ -67,7 +67,7 @@ Foram identificados um maior número de pessoas da **primeira** e **terceira** c
 
 Como podemos analisar das imagens, na **terceira** classe, homens e mulheres tiveram uma taxa de óbito maior, e comparando o grupo das mulheres com a dos homens, as mulheres tiveram uma sobrevivência maior em cada uma das classes.
 
-#Taxa de Sobrevivência por Idade
+# Taxa de Sobrevivência por Idade
 <div align="center">
   <table>
     <tr>
@@ -94,7 +94,7 @@ A preferência foi dada para 1ª e 2ª classe, onde na primeira foi até equilib
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/mariaefoliveira/Analise_Titanic/blob/main/Imagem-Print/Demografico/Sozinho-em-familia-Geral.png?raw=true" alt="Porto de Embarque" width="1000"/>
+        <img src="https://github.com/mariaefoliveira/Analise_Titanic/blob/main/Imagem-Print/Demografico/Sozinho-em-familia-Geral.png?raw=true" alt="Porto de Embarque" width="600"/>
       </td>
     </tr>
   </table>
